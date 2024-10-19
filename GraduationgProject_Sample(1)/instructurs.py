@@ -2,8 +2,8 @@ import smtplib
 
 SMTP_SERVER = "smtp.gmx.com"
 SMTP_PORT = 587
-EMAIL_USER = "piurkowski@gmx.com"  # Your GMX email
-EMAIL_PASSWORD = "21619062Mz@"  # Your app password
+EMAIL_USER = ""  # Your GMX email
+EMAIL_PASSWORD = "21"  # Your app password
 
 try:
     with smtplib.SMTP(SMTP_SERVER, SMTP_PORT) as server:
