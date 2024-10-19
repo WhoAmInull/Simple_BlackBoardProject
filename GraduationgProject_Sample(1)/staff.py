@@ -11,13 +11,13 @@ import os
 DB_HOST = "localhost"
 DB_NAME = "course_management"
 DB_USER = "postgres"
-DB_PASSWORD = "21619062"
+DB_PASSWORD = "..."
 
 # SMTP Configuration
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 EMAIL_USER = "alzahrani0566359@gmail.com"  # Your email
-EMAIL_PASSWORD = "uoqdnridnxnctkhy"  # Your app password
+EMAIL_PASSWORD = "......"  # Your app password
 
 def send_email(to_email, subject, body):
     msg = MIMEText(body)
