@@ -35,4 +35,4 @@ def student_menu(system, current_user):
             break
 
         else:
-            print("Invalid choice. Please try again.")
+            print("Invalid choice. Please try again.") 
