@@ -1,7 +1,7 @@
 # Semi-Blackboard System Project
 
 ### Overview
-This is a simple version of those (blackboard) systems you see in schools and colleges. The main idea is to help students and instructors manage stuff like courses and assignments, and to keep communication smooth between them.
+This is a simple version of those ( blackboard ) systems you see in schools and colleges. The main idea is to help students and instructors manage stuff like courses and assignments, and to keep communication smooth between them.
 
 ### Features
 - **Roles**: There are two main ones—Students and Instructors.
@@ -10,7 +10,7 @@ This is a simple version of those (blackboard) systems you see in schools and co
 - **Assignments**: Instructors upload assignments Such as homework and projects., and students submit their work.
 
 ### Tech Stuff
-- We built this using object-oriented design principles (fancy way of saying we kept things neat and organized).
+- We built this using object-oriented design principles ( fancy way of saying we kept things neat and organized ).
 
 ### How to Use
 1. Clone this repo.
