@@ -19,3 +19,6 @@ def send_email(to_email, subject, body):
         print("Authentication failed. Please check your email and app password.")
     except Exception as e:
         print(f"An error occurred: {e}")
+
+
+# an additional technique for security purposes!
