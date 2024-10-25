@@ -53,5 +53,3 @@ class System:
                         print(f"Course {title} created successfully.")
                     except Exception as e:
                         print(f"Error creating course: {e}")
-
-    # Additional methods for assignment handling, user retrieval, etc. can be added here
