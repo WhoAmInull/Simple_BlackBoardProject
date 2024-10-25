@@ -83,3 +83,8 @@ def create_tables(conn):
         """)
 
     conn.commit()
+
+
+
+
+# using PGadmin4 platform for this db..
