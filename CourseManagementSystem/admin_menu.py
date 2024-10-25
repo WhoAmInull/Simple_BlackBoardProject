@@ -31,3 +31,6 @@ def admin_menu(system):
 
         else:
             print("Invalid choice. Please try again.")
+
+
+# basic menu , should be using an UI in HTML soon..
