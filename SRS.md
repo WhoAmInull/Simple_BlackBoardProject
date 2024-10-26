@@ -3,20 +3,20 @@
 ## 1. Introduction
 
 ### 1.1 Purpose
-The purpose of this document is to define the requirements for the **Course Management System (CMS)**, a platform designed for students and instructors to manage courses, assignments, and communication effectively.
+The purpose of this document is to define the requirements for the *Course Management System (CMS)*, a platform designed for students and instructors to manage courses, assignments, and communication effectively.
 
 ### 1.2 Scope
 The Course Management System provides core functionalities such as user authentication, course management, assignment handling, and email notifications, tailored for educational needs. Unlike traditional Learning Management Systems (LMS), this system focuses on essential operations while ensuring ease of use.
 
 ### 1.3 Intended Users
-- **Students**: Can log in, enroll in courses, view course content, submit assignments, and receive notifications.
-- **Instructors**: Can log in, create and manage courses, post assignments, review submissions, and communicate with students.
+- *Students*: Can log in, enroll in courses, view course content, submit assignments, and receive notifications.
+- *Instructors*: Can log in, create and manage courses, post assignments, review submissions, and communicate with students.
 
 ---
 
 ## 2. System Overview
 
-The Course Management System supports two primary user roles: **Students** and **Instructors**. It facilitates streamlined operations such as logging in, course and assignment management, and tracking submissions.
+The Course Management System supports two primary user roles: *Students* and *Instructors*. It facilitates streamlined operations such as logging in, course and assignment management, and tracking submissions.
 
 ---
 
@@ -24,13 +24,13 @@ The Course Management System supports two primary user roles: **Students** and *
 
 ### 3.1 User Roles and Permissions
 
-- **Students**:
+- *Students*:
   - Log in to their account.
   - View available courses and their content.
   - Enroll in courses.
   - Submit assignments through the system.
 
-- **Instructors**:
+- *Instructors*:
   - Log in to their account.
   - Create, view, and manage their courses.
   - Post and manage assignments.
@@ -42,24 +42,24 @@ The Course Management System supports two primary user roles: **Students** and *
 
 ### 3.3 Course Management
 
-- **For Instructors**:
+- *For Instructors*:
   - Ability to create new courses and manage existing ones.
   - Upload course content and provide access to enrolled students.
   - Set up assignments and manage submission deadlines.
 
-- **For Students**:
+- *For Students*:
   - Ability to view and enroll in available courses.
   - Access course content and submit assignments.
   - Receive notifications about assignments and course updates.
 
 ### 3.4 Assignment Management
 
-- **For Instructors**:
+- *For Instructors*:
   - Upload and manage assignments for each course.
   - Review and grade student submissions.
   - Provide feedback on submitted assignments.
 
-- **For Students**:
+- *For Students*:
   - View and download assignments from enrolled courses.
   - Submit assignments by attaching completed work.
 
@@ -104,4 +104,4 @@ The Course Management System supports two primary user roles: **Students** and *
 
 ## 7. Conclusion
 
-The **Course Management System** is a straightforward, user-friendly solution aimed at managing essential educational activities, including course and assignment management. Its simplicity makes it an ideal tool for instructors and students who need a reliable and easy-to-use platform.
+The *Course Management System* is a straightforward, user-friendly solution aimed at managing essential educational activities, including course and assignment management. Its simplicity makes it an ideal tool for instructors and students who need a reliable and easy-to-use platform.
