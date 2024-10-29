@@ -496,8 +496,8 @@ def main_menu(system):
         else:
             print("Invalid choice. Please try again.")
 
-# Entry point for the application
+
 if __name__ == "__main__":
     system = System()
-    create_initial_admin(system)  # Create initial Super Admin if not exists
-    main_menu(system)  # Start the main menu
+    create_initial_admin(system)  
+    main_menu(system)  
